@@ -1,5 +1,5 @@
 # COMP4431 Artificial Intelligence Course Project
-*Group Member: DU Haoqian, Fang Chuming, Yang Qiyuan, Chan SheungYuen *
+*Group Member: DU Haoqian, Fang Chuming, Yang Qiyuan, Chan SheungYuen*
 ## MoMA: Personalized Multimodal Medical Agent with Monte Carlo VeriTree Test-Time Scaling
 ![Workflow Diagram](https://github.com/DumanHaoqian/MoMA-Personalized-Multimodal-Medical-Agent-with-Monte-Carlo-VeriTree-Test-Time-Scaling/blob/main/assets/workflow2.png)
 ## Table of Model Selection:
