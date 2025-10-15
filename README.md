@@ -16,3 +16,13 @@
 | ImageTextDataset        | [PMC-OA](https://huggingface.co/datasets/axiong/pmc_oa/tree/main)                                                                     |
 
 ## Video Demo Of Preliminary Results:
+
+### 1. Main Idea Demo
+
+### 2. Functionality: Text2Speech
+
+### 3. Functionality: Speech2Text
+
+### 4. Functionality: Image Generation
+
+### Continuing...
