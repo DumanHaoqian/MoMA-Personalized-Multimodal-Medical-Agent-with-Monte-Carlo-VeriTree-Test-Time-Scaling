@@ -24,11 +24,8 @@
 ## Video Demo Of Preliminary Results 🎬
 
 ### 1. Main Idea Demo 💡
-![Main Idea Demo](https://github.com/DumanHaoqian/MoMA-Personalized-Multimodal-Medical-Agent-with-Monte-Carlo-VeriTree-Test-Time-Scaling/blob/main/assets/dadongbei.mp4)
-<video controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="800" poster="https://github.com/DumanHaoqian/MoMA-Personalized-Multimodal-Medical-Agent-with-Monte-Carlo-VeriTree-Test-Time-Scaling/raw/main/assets/workflow2.png">
-  <source src="https://dumanhaoqian.github.io/MoMA-Personalized-Multimodal-Medical-Agent-with-Monte-Carlo-VeriTree-Test-Time-Scaling/assets/dadongbei.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video demo](https://img.youtube.com/vi/LwkqokS7RkU/hqdefault.jpg)](https://youtu.be/LwkqokS7RkU)
+
 
 ### 2. Functionality: Text2Speech 🔊➡️🗣️
 
