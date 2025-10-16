@@ -24,7 +24,6 @@
 ## Video Demo Of Preliminary Results 🎬
 
 ### 1. Main Idea Demo 💡
-### 1. Main Idea Demo 💡
 <video src="https://github.com/DumanHaoqian/MoMA-Personalized-Multimodal-Medical-Agent-with-Monte-Carlo-VeriTree-Test-Time-Scaling/raw/main/assets/dadongbei.mp4" controls width="600">
   Your browser does not support the video tag.
 </video>
