@@ -25,7 +25,7 @@
 
 ### 1. Main Idea Demo 💡
 <video controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="800" poster="https://github.com/DumanHaoqian/MoMA-Personalized-Multimodal-Medical-Agent-with-Monte-Carlo-VeriTree-Test-Time-Scaling/raw/main/assets/workflow2.png">
-  <source src="https://dumanhaoqian.github.io/MoMA-Personalized-Multimodal-Medical-Agent-with-Monte-Carlo-VeriTree-Test-Time-Scaling/assets/dadongbei.mp4" type="video/mp4">
+  <source src="[https://dumanhaoqian.github.io/MoMA-Personalized-Multimodal-Medical-Agent-with-Monte-Carlo-VeriTree-Test-Time-Scaling/assets/dadongbei.mp4](https://github.com/DumanHaoqian/MoMA-Personalized-Multimodal-Medical-Agent-with-Monte-Carlo-VeriTree-Test-Time-Scaling/blob/main/assets/dadongbei.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
