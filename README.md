@@ -4,7 +4,7 @@
 
 ## MoMA: Personalized Multimodal Medical Agent with Monte Carlo VeriTree Test-Time Scaling 🏥✨
 
-[Workflow Diagram]
+![Workflow Diagram](https://github.com/DumanHaoqian/MoMA-Personalized-Multimodal-Medical-Agent-with-Monte-Carlo-VeriTree-Test-Time-Scaling/blob/main/assets/workflow2.png)
 
 ## Model Selection Table 📊
 
