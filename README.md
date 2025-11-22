@@ -17,7 +17,7 @@
 | Image Generation (API)  | [Seedream 4.0](https://www.volcengine.com/docs/85621/1820192)                                                                          |
 | Speech2Text (Locally)   | [OpenAI-Whisper](https://github.com/openai/whisper)                                                                                   |
 | Text2Speech (Locally)   | [Edge-TTS](https://github.com/rany2/edge-tts?tab=readme-ov-file)                                                                       |
-| OCR (Locally)           | [Deepseek-OCR](https://duguang.aliyun.com/?spm=5176.12127803.J_5253785160.4.4c495542UQMnua](https://github.com/deepseek-ai/DeepSeek-OCR) |
+| OCR (Locally)           | [Deepseek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) |
 | TextDataset             | [PubMedQA](https://github.com/pubmedqa/pubmedqa)                                                                                      |
 | ImageTextDataset        | [PMC-OA](https://huggingface.co/datasets/axiong/pmc_oa/tree/main)                                                                     |
 ## Video Demo Of Preliminary Results 🎬
